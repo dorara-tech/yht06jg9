@@ -1,0 +1,20 @@
+{
+  "project_type": 1,
+  "app_name": "Aplikasi Saya",
+  "app_id": "com.example.app",
+  "version_name": "1.0.0",
+  "version_code": "1",
+  "selected_permissions": [
+    "android.permission.INTERNET",
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.MANAGE_EXTERNAL_STORAGE"
+  ],
+  "fullscreen_mode": "1",
+  "screen_orientation": "1",
+  "build_type": "1"
+}
